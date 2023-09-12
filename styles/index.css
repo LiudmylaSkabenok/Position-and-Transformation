@@ -1,0 +1,235 @@
+/*nav {
+    position: fixed;
+}*/
+.logo {
+    margin-top: 45px;
+    margin-left: 144px;
+}
+.productly {
+    margin-top: 42px;
+    margin-left: 11px;
+}
+h6 {
+    display: inline-block;
+    color: #2F281E;
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+.product {
+    margin-top: 44px;
+    margin-left: 321px;
+    font-size: 14px;
+    text-align: center;
+}
+.customers, .pricing, .resourse {
+    margin-left: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+.btn--sign-in {
+    background: #FFF;
+    width: 102px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    border: 1px solid #BCD0E5;
+    margin-left: 54px;
+    color: #173A56;
+    font-weight: 600;
+    margin-top: 35px;
+    }
+.btn--sign-up {
+    width: 110px;
+    height: 46px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #F90;
+    border: none;
+    margin-left: 14px;
+    color: #FFF;
+    font-weight: 600;
+    margin-top: 35px;
+}
+.btn {
+    font-size: 16px;
+    font-style: normal;
+    line-height: normal;
+    font-family: Poppins, sans-serif;
+}
+main {
+    margin-left: 145px;
+}
+header {
+    margin-left: 145px;
+}
+h1 {
+    max-width: 518px;
+    width: 100%;
+    margin-top: 137px;
+    color: #2F281E;
+    font-family: Poppins, sans-serif;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px; /* 122.727% */
+}
+.main-info {
+    color: #544837;
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+    width: 458px;
+    height: 95px;
+    flex-shrink: 0;
+    margin-top: 30px;
+    }
+.get--started {
+    margin-top: 45px;
+    width: 175px;
+    height: 53px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #F90;
+    border: none;
+    color: #FFF;
+    font-weight: 700;
+}
+.btn:hover {
+    background-color: aquamarine;
+    transform: scale(2, 2)
+}
+.triangle {
+    margin-top: 62px;
+}
+.video {
+    color: #F90;
+    font-size: 16px;
+    text-decoration-line: underline;
+}
+.jumping-people {
+    max-width: 605px;
+    width: 100%;
+}
+section {
+    display: inline-block;
+}
+.feature {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.heading {
+    margin-top: 111px;
+    color: #2F281E;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    max-width: 539px;
+    width: 100%;
+}
+.container {
+    display: flex;
+
+}
+.card {
+    max-width: 240px;
+    min-height: 178px;
+    margin-top: 54px;
+    display: flex;
+    align-items: center;
+}
+.btn--singup-now {
+    width: 175px;
+    height: 53px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #F90;
+    border: none;
+    color: #FFF;
+    margin-top: 34px;
+    font-size: 16px;
+    font-weight: 700;
+}
+h2 {
+    color: #2F281E;
+    font-family: Poppins, sans-serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+h5 {
+    color: #2F281E;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 26px; /* 162.5% */
+}
+.fortless-validation {
+    margin-top: 236px;
+}
+.info-design {
+    max-width: 486px;
+    width: 100%;
+}
+.pointing-man {
+    margin-left: 104px;
+}
+.computer-man {
+    margin-top: 118px;
+}
+.info-manager {
+    margin-left: 102px;
+    margin-top: 150px;
+    max-width: 486px;
+    width: 100%;
+}
+.info-marketers {
+    margin-top: 143px;
+    max-width: 486px;
+    width: 100%;
+}
+.man-bottoms {
+    margin-left: 82px;
+}
+footer {
+    margin-top: 185px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn--singup-now {
+    width: 131px;
+    height: 39px;
+    flex-shrink: 0;
+    border-radius: 4px;
+    background: #F90;
+    border: none;
+    color: #FFF;
+    margin-top: 209px;
+    font-size: 16px;
+    font-weight: 700;
+}
+ .logo-footer, .productly-footer{
+  margin-bottom: 400px;
+}
+.about, .terms {
+    margin-top: 90px;
+}
+
+
+
+    
+
+ 
+
+
+
